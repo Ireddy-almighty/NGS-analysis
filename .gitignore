@@ -12,3 +12,11 @@
 *fastp.html
 *fastp.json
 multiqc/
+
+# reference, index and alignment files
+*.fa
+*.fa.*
+*.dict
+*.bam
+*.bai
+*.sam
