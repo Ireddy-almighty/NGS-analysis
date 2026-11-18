@@ -1,0 +1,14 @@
+# SLURM logs
+*.out
+*.err
+
+# sequencing data
+*.fastq.gz
+*.fq.gz
+
+# QC output (can be regenerated)
+*_fastqc.html
+*_fastqc.zip
+*fastp.html
+*fastp.json
+multiqc/
