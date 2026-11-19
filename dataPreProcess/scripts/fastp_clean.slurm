@@ -8,7 +8,7 @@
 #SBATCH --time=02:00:00
 #SBATCH --output=fastp.out
 
-SAMPLE=1003_DRG
+SAMPLE=1004_DRG
 
 module load fastp/0.23.4-GCC-10.3.0
 

@@ -20,3 +20,9 @@ multiqc/
 *.bam
 *.bai
 *.sam
+
+# data folders
+raw_data/
+fastq_data/
+mapping/
+markduplicates/
